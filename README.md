@@ -1,2 +1,3 @@
-# algorithms_dsa
-Practicing Algorithms and Data Structures.
+# Data Structures and Algorithms
+
+Repo with many different Algorithms and Data Structures examples.
